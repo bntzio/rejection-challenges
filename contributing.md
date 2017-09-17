@@ -9,7 +9,7 @@ The only five things to keep in mind when submitting your pull request are the f
 * The first commit message word is capitalized
 * The challenge description first word should be capitalized and without a period
 * The challenge description should be a tweet long at max (140 characters or less)
-* Add your challenge in one of the 5 categories (Baby Easy, Easy, Medium, Hard, Super Hard)
+* Add your challenge in one of the 5 categories (Baby Easy, Easy, Medium, Hard, Super Hard) and below the last challenge
 * The challenge should not be offensive/illegal and should not be a life threat to anyone
 
 If all of those requirements are correct, your pull request will be accepted, in case at least one fails, your pull request won't be merged.
