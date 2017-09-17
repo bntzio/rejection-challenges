@@ -1,4 +1,8 @@
-# Rejection Challenges
+<h1>
+    <br />
+        <img width="100%" src="https://rawgit.com/bntzio/rejection-challenges/master/media/banner.png" alt="Rejection Challenges" />
+    <br />
+</h1>
 
 > A list of challenges to overcome fear of rejection ✋
 
