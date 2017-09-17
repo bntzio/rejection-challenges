@@ -161,6 +161,11 @@ The only 3 rules:
     </details>
 </p>
 
+## Contributing
+Got a cool idea for a rejection challenge? Help us by [submitting a pull request!](https://github.com/bntzio/rejection-challenges/blob/master/contributing.md) 😉
+
+Do you have any question? [Submit an issue](https://github.com/bntzio/rejection-challenges/issues/new) 🙂
+
 ## Created by
 * [Enrique Benitez](https://twitter.com/bntzio)
 
