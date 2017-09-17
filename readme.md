@@ -160,3 +160,9 @@ The only 3 rules:
         <ol>
     </details>
 </p>
+
+## Created by
+* [Enrique Benitez](https://twitter.com/bntzio)
+
+## License
+MIT © [Enrique Benitez](https://bntz.io)
